@@ -66,9 +66,4 @@ Assumptions
 3. Error handling assumes a development environment. Production deployment would require more robust error handling and logging.
 4. The task function is a simple console log and file write. In a real-world scenario, this would be replaced with actual task processing logic.
 
-Future Improvements
 
-1. Implement dynamic management of user queues based on incoming requests.
-2. Add more comprehensive error handling and logging for production use.
-3. Implement a cleanup mechanism for Redis keys to prevent memory buildup.
-4. Add unit and integration tests to ensure reliability.
