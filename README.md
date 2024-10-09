@@ -17,8 +17,8 @@ Prerequisites
 Installation
 
 1. Clone the repository:
-   git clone <repository-url>
-   cd user-task-queuing
+   git clone https://github.com/Vaibhavbasidoni/rate-limited-task-queue.git
+   cd user-task-queue
 
 2. Install dependencies:
    npm install
