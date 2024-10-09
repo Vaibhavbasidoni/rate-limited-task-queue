@@ -1,0 +1,17 @@
+{
+  "name": "user-task-queuing",
+  "version": "1.0.0",
+  "description": "User Task Queuing with Rate Limiting",
+  "main": "src/cluster.js",
+  "scripts": {
+    "start": "node src/cluster.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "redis": "^3.1.2",
+    "dotenv": "^10.0.0"
+  }
+}
